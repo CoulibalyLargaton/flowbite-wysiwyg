@@ -1,1 +1,6 @@
-# flowbite-wysiwyg
+# Installation
+
+```
+ npm install
+ npm run dev
+```
